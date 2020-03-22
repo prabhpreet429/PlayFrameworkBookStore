@@ -22,15 +22,10 @@ public class BooksController extends Controller {
     }
 
     //edit
-    public Result edit(Integer id) {
+    public Result update(Integer id) {
 
     }
 
-    //update
-    public Result update()
-    {
-
-    }
 
 
     //delete
